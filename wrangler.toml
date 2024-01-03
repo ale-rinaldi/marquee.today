@@ -1,0 +1,7 @@
+name = "marquee-today"
+main = "src/index.ts"
+compatibility_date = "2023-12-18"
+route = "https://marquee.today/*"
+
+[site]
+bucket = "./website"
